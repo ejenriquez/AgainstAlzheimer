@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Reminders xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Age>0</Age>
+  <Birthday>0001-01-01T00:00:00</Birthday>
+  <Family1>Luis, tu papá</Family1>
+  <Family2>Angelica, tu mamá</Family2>
+  <Family3>Luis, tu hermano</Family3>
+  <Family4>Jhon, tu hermano</Family4>
+  <Family5>William, tu hermano</Family5>
+  <Family6>Samy, tu mascota</Family6>
+  <Family7 />
+  <Family8 />
+</Reminders>
